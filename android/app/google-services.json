@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709870395617",
+    "project_id": "dreamteammilico-guia-do-milico",
+    "storage_bucket": "dreamteammilico-guia-do-milico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709870395617:android:a61f511fe049b15f6917a0",
+        "android_client_info": {
+          "package_name": "br.com.guiadomilico.guia_do_milico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqm7xj6h4LxmvxSTEBD7TjCDx5aY5eDsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
